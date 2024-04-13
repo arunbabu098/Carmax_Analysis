@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis
+# Python-Driven CarMax Sales Analysis & Visualization
 
 ## About
 
