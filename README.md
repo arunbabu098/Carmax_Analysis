@@ -61,6 +61,9 @@ Investigate trends in vehicle type changes from trade-in to purchase.
 5. Color Popularity and Changes:
 Identify patterns in color preferences and changes during the trade-in process.
 
+### Visualization
+
+
 ## Approach Used
 
 1. Predictive Modeling:
