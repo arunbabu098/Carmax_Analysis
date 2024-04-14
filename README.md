@@ -3,7 +3,7 @@
 ## About
 
 This project delves into CarMax's sales data, exploring the relationship between customers' appraised vehicles and their subsequent purchases. Our analysis seeks to provide CarMax with actionable insights to refine business operations and deliver personalized shopping experiences. 
-The dataset used for this analysis was sourced from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
+The dataset used for this analysis was sourced from Kaggle.
 
 ## Purposes Of The Project
 
