@@ -48,7 +48,7 @@ The dataset comprises transactions from CarMax, detailing various attributes of 
 | days_since_offer         | Days between appraisal offer and sale to CarMax         |
 
 
-### Analysis List
+## Analysis List
 
 1. Appraisal vs. Purchase Trends:
 Examine how the characteristics of appraised vehicles correlate with the vehicles purchased.
@@ -61,8 +61,67 @@ Investigate trends in vehicle type changes from trade-in to purchase.
 5. Color Popularity and Changes:
 Identify patterns in color preferences and changes during the trade-in process.
 
-### Visualization
+## Visualization
 
+#### 1.Pricing
+<p align="center">
+<img src="https://i.imgur.com/gqYky5t.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/f2jHhkU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+#### 2.Mileage
+<p align="center">
+<img src="https://i.imgur.com/EiR11rR.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/6J2qTxq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+#### 3.Car Make
+<p align="center">
+<img src="https://i.imgur.com/QtK9e1e.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/HMvm3zK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/mOagxLQ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+#### 4.Car Type
+<p align="center">
+<img src="https://i.imgur.com/TerRNl7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/YyGEaOB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/sJehhVe.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+#### 5.Car Color
+<p align="center">
+<img src="https://i.imgur.com/Hw8JGIN.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/V8VrRMJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/AUk9Opc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
+#### 6.Car Year
+<p align="center">
+<img src="https://i.imgur.com/g5i29Ce.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/I7Fjqv3.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+<img src="https://i.imgur.com/9HTWJ1g.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
 
 ## Approach Used
 
